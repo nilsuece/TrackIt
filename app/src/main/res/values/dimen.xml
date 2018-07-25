@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="general_margin">16dp</dimen>
+    <dimen name="general_textsize">16sp</dimen>
+    <dimen name="small_margin">4dp</dimen>
+    <dimen name="mid_margin">8dp</dimen>
+    <dimen name="list_dimen">88dp</dimen>
+    <dimen name="button_margin">75dp</dimen>
+    <dimen name="large_textsize">38sp</dimen>
+    <dimen name="mid_textsize">18sp</dimen>
+</resources>

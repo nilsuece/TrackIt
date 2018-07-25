@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Track It</string>
+    <string name="add_new_product">Add new product</string>
+    <string name="delete_all_entries">Delete All Products</string>
+    <string name="insert_product_failed">Error with inserting a new product.</string>
+    <string name="insert_product_successful">Product saved succesfully.</string>
+    <string name="update_product_failed">Error with updating the product.</string>
+    <string name="update_product_successful">Product updated succesfully.</string>
+    <string name="unsaved_changes_dialog_msg">Changes are not saved, do you want to quit editing?</string>
+    <string name="cancel">Cancel</string>
+    <string name="keep_editing">Keep editing</string>
+    <string name="delete_dialog_msg">Do you want to delete this product?</string>
+    <string name="delete">Delete</string>
+    <string name="delete_product_failed">Error with deleting product.</string>
+    <string name="delete_product_successful">Product deleted successfully.</string>
+    <string name="insert_dummy_data">Insert dummy data</string>
+    <string name="product_name_hint">Product Name</string>
+    <string name="price_hint">Price</string>
+    <string name="quantity_hint">Quantity</string>
+    <string name="supp_name_hint">Supplier Name</string>
+    <string name="supp_phone_hint">Supplier Phone</string>
+    <string name="call_supplier_button">CALL</string>
+    <string name="sell_1">-1 QTY</string>
+    <string name="buy_1">+1 QTY</string>
+    <string name="edit_product">Edit product</string>
+    <string name="no_phone_number">There is no phone number.</string>
+    <string name="sale_successful">Sale successful.</string>
+    <string name="sale_unsuccessful">Sale has not been done correctly.</string>
+    <string name="out_of_stock">Out of stock</string>
+    <string name="name_error">Product name required!</string>
+    <string name="product_info">Product Info</string>
+    <string name="supp_info">Supplier Info</string>
+    <string name="empty_list">There are no products.</string>
+    <string name="currency">$</string>
+    <string name="sale_button">Sale</string>
+    <string name="quantity">QTY</string>
+    <string name="price_error">Price required!</string>
+    <string name="quantity_error">Quantity required</string>
+    <string name="supp_name_error">Supplier name required!</string>
+    <string name="supp_phone_error">Supplier phone number required!</string>
+    <string name="save_error">Fill fields before saving!</string>
+
+</resources>
